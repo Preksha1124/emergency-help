@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title> Emergency Help </title>
   <style>
-    body { font-family: Arial; text-align: center; padding: 40px; background: #f0f8ff; }
+    body { font-family: Arial; text-align: center; padding: 40px; background: #f0f8ff; } 
     input, button { margin: 10px; padding: 10px; font-size: 16px; width: 250px; }
     button { background: #e53935; color: white; border: none; border-radius: 6px; }
     #sosOnly { display: none; }
